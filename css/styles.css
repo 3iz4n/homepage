@@ -1,0 +1,71 @@
+body {
+	background-color: #2C3333;
+	color: #CBE4DE ;
+
+	
+
+}
+
+.container {
+	text-align: center;
+	padding: 7% 0 0;
+
+	
+}
+
+a {
+	text-decoration: none;
+
+	font-family: "Montserrat";
+
+	color: #0E8388;
+}
+
+a:hover {
+	color: #CBE4DE;
+}
+
+h4 {
+	color: #0E8388;
+	padding-bottom: 4%;
+	font-weight: 900;
+}
+
+
+#links {
+	
+	line-height: 2;
+	padding: 15% 15% 0;
+	
+
+}
+
+
+.navbar {
+	margin: 0 0 170px;
+	padding: 1% 0 1% 4%;
+
+
+}
+
+#txt{
+	text-align: center;
+	font-family: "Montserrat";
+	font-size: 5rem;
+
+
+}
+
+
+.navbar-nav {
+	position: absolute;
+	right: 180px;
+	
+}
+
+.dropdown-menu {
+text-align: center;
+ min-width: 60px !important;
+
+}
+
